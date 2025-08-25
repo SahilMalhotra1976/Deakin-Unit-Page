@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deakin-Unit-Page")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd3e2853d34ae9a50b5196a7027e87cd14343800")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5210e878c8a4606f018282606e5e700319c3f9cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deakin-Unit-Page")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Deakin-Unit-Page")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
